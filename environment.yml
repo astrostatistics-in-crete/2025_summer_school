@@ -34,7 +34,7 @@ dependencies:
       - statsmodels==0.14.4
 
       # Bayesian & MCMC
-      - corner==2.2.3
+      - corner==2.1.0
       - dynesty==2.1.2
       - emcee==3.1.6
       - getdist==1.4.5  
