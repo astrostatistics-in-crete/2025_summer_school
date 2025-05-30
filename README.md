@@ -22,7 +22,7 @@ using a `conda` environment.
 First, clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/your-username/astrostat25-summer-school.git
+git clone https://github.com/astrostatistics-in-crete/2025_summer_school.git
 cd astrostat25_summer_school
 ```
 
