@@ -41,7 +41,6 @@ dependencies:
 
       # Machine Learning
       - astroML==1.0.2
-      - lightgbm==4.3.0
       - optuna==3.5.0    
       - scikit-learn==1.6.1
       - xgboost==2.0.3
