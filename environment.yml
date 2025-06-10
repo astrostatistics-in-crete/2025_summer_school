@@ -37,7 +37,8 @@ dependencies:
       - corner==2.1.0
       - dynesty==2.1.2
       - emcee==3.1.6
-      - getdist==1.4.5  
+      - getdist==1.4.5
+      - sbi==0.22.0
 
       # Machine Learning
       - astroML==1.0.2
