@@ -72,12 +72,16 @@ jupyter notebook
 If you prefer not to install the environment locally, you can still access and
 view the notebooks with the methods listed below.
 
-NOTE: Interactive figures (e.g., Plotly, ipywidgets) may not display as intended.
+> NOTE: Interactive figures (e.g., Plotly, ipywidgets) may not display as intended.
 
 ### 1. View notebooks directly on GitHub
 
 GitHub natively renders `.ipynb` files as static HTML. Simply navigate to any
 notebook file in the repository to view its contents.
+
+> NOTE: Some figures are embedded in the notebooks, so they will only be visible
+when the notebooks are downloaded and opened locally—they will not be displayed
+on GitHub.
 
 ### 2. Use the "Open in nbviewer" browser extension
 
