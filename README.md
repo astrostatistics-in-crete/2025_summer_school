@@ -4,9 +4,9 @@ Notebooks from the teaching sessions and the workshops of the
 [2025 Summer School for Astrostatistics in Crete](https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2025/).
 
 <p align="center">
-  <img src="10_ML_Practices/images/kNN_decision_function_animation.gif" alt="Image 1" width="30%" />
-  <img src="image2.png" alt="Image 2" width="30%" />
-  <img src="11_DL/images/neuron_flow.gif" alt="Image 3" width="30%" />
+  <img src="10_ML_Practices/images/kNN_decision_function_animation.gif" alt="Image 1" height="200px" />
+  <img src="07_MCMC/images/mh.png" alt="Image 2" height="200px" />
+  <img src="11_DL/images/neuron_flow.gif" alt="Image 3" height="200px" />
 </p>
 
 ## Getting Started
