@@ -6,7 +6,7 @@ Notebooks from the teaching sessions and the workshops of the
 <p align="center">
   <img src="10_ML_Practices/images/kNN_decision_function_animation.gif" alt="Image 1" width="30%" />
   <img src="image2.png" alt="Image 2" width="30%" />
-  <img src="image3.png" alt="Image 3" width="30%" />
+  <img src="10_DL/images/neuron_flow.gif" alt="Image 3" width="30%" />
 </p>
 
 ## Getting Started
