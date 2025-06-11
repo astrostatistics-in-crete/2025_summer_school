@@ -1,7 +1,13 @@
-# 2025 Summer School for Astrostatistics in Crete
+# 2025 Summer School for AstroStatistics in Crete
 
 Notebooks from the teaching sessions and the workshops of the
 [2025 Summer School for Astrostatistics in Crete](https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2025/).
+
+<p align="center">
+  <img src="10_ML_Practices/images/kNN_decision_function_animation.gif" alt="Image 1" height="150px" />
+  <img src="07_MCMC/images/mh.png" alt="Image 2" height="150px" />
+  <img src="11_DL/images/neuron_flow.gif" alt="Image 3" height="150px" />
+</p>
 
 ## Getting Started
 
@@ -72,12 +78,16 @@ jupyter notebook
 If you prefer not to install the environment locally, you can still access and
 view the notebooks with the methods listed below.
 
-NOTE: Interactive figures (e.g., Plotly, ipywidgets) may not display as intended.
+> NOTE: Interactive figures (e.g., Plotly, ipywidgets) may not display as intended.
 
 ### 1. View notebooks directly on GitHub
 
 GitHub natively renders `.ipynb` files as static HTML. Simply navigate to any
 notebook file in the repository to view its contents.
+
+> NOTE: Some figures are embedded in the notebooks, so they will only be visible
+when the notebooks are downloaded and opened locally—they will not be displayed
+on GitHub.
 
 ### 2. Use the "Open in nbviewer" browser extension
 
