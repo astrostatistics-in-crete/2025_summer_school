@@ -73,6 +73,9 @@ You can now start the notebook interface from inside the environment:
 jupyter notebook
 ```
 
+**Note**: the command above will open the jupyter notebook in chrome/chromium. If you want to use another browser (e.g. Firefox) you need to add the file 'jupyter\_notebook\_config.py', under /home/.jupyter/ directory (where the configuration file can be found), with the following command:
+c.NotebookApp.browser = 'firefox'
+
 ## Downloading without installation
 
 If you prefer not to install the environment locally, you can still access and
