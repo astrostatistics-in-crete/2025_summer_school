@@ -73,6 +73,11 @@ You can now start the notebook interface from inside the environment:
 jupyter notebook
 ```
 
+> NOTE: The command above will open the jupyter notebook in your default browser. If you wish to use another browser (e.g. Firefox) you need to edit the file 'jupyter\_notebook\_config.py', under your /home/.jupyter/ directory, adding the following command:
+```bash
+c.NotebookApp.browser = 'firefox'
+```
+
 ## Downloading without installation
 
 If you prefer not to install the environment locally, you can still access and
