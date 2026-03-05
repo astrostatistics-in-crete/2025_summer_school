@@ -1,7 +1,7 @@
-# 2025 Winter School for AstroStatistics in Sharjah
+# 2025 Summer School for AstroStatistics in Crete
 
 Notebooks from the teaching sessions and the workshops of the
-[2025 Winter School for Astrostatistics in Sharjah](https://astrostat2025.saasst.ae/).
+[2025 Summer School for Astrostatistics in Crete](https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2025/).
 
 <p align="center">
   <img src="10_ML_Practices/images/kNN_decision_function_animation.gif" alt="Image 1" height="150px" />
@@ -28,8 +28,8 @@ using a `conda` environment.
 First, clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/Astrostat-Sharjah/2025_winter_school
-cd astrostat25_winter_school
+git clone https://github.com/astrostatistics-in-crete/2025_summer_school.git
+cd astrostat25_summer_school
 ```
 
 ### Create the conda environment
@@ -132,10 +132,10 @@ software tools are properly addressed within each notebook.
 
 ## Acknowledging the school
 
-If the material you learned through this winter school directly and
+If the material you learned through this summer school directly and
 significantly contributed to your work, we invite you to include the
 following acknowledgement in your manuscript:
 
-> We wish to thank the "Winter School for Astrostatistics in Sharjah" and the AstroStat Academy for
+> We wish to thank the "Summer School for Astrostatistics in Crete" for
 providing training on the statistical methods adopted in this work.
 
